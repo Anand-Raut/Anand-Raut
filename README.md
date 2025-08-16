@@ -67,7 +67,7 @@ Random experiments that may or may not break things:
 [🗂️ TaskFlow](https://github.com/Anand-Raut/taskflow) – Trello-like Kanban board with JWT auth + MongoDB  
 [🧠 MeetWise](https://github.com/Anand-Raut/meetwise) – AI meeting summarizer (FastAPI + React + NLP)  
 [🎙️ Transcribo](https://github.com/Anand-Raut/transcribo) – Audio/video transcription API (Whisper + FFmpeg + FastAPI)  
-[📄 SkimPDF](https://github.com/Anand-Raut/skim-pdf) – Fast PDF extraction & summarization tool (Python backend)
+[📄 SkimPDF](https://github.com/Anand-Raut/skimpdf) – Fast PDF extraction & summarization tool (Python backend)
 
 ---
 
