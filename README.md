@@ -3,6 +3,8 @@
 > *“Breaking stuff until it works better.”*  
 
 🎓 CSE Student • 💻 Full-Stack Developer • 🐧 Linux Enthusiast KDE neon btw
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-raut&show_icons=true&locale=en&layout=compact" alt="anand-raut" /></p>
+
 
 ---
 
