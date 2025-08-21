@@ -1,7 +1,7 @@
   # 👋 Hey, I’m Anand Raut  
   
   > *“Breaking stuff until it works better.”*  
-  🎓 CSE Student • 💻 Full-Stack Developer • 🐧 Linux Enthusiast KDE neon btw
+  🎓 CSE Student • 💻 Full-Stack Developer • 🐧 Linux user KDE neon btw
 
 ---
 
