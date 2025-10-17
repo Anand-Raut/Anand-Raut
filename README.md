@@ -93,7 +93,6 @@
   
   ## 🕸️ Connect With Me  
   - 🐙 GitHub: [@Anand-Raut](https://github.com/Anand-Raut)  
-  - 💼 LinkedIn: [Anand Raut](https://www.linkedin.com/in/anand-raut-a9b536326/)  
   - X: [@Anand_Raut9](https://x.com/Anand_Raut9)  
   - ✉️ Gmail: anandraut7794@gmail.com  
   
